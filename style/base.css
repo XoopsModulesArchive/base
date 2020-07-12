@@ -1,0 +1,14 @@
+/* base modules by timgno
+   http://mcdirectory.netsons.org/txmod/ 
+ */
+html {}
+body{}
+
+div.base{
+	color: #F90000;
+	height: 100px;
+	text-align: center;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+}
